@@ -13,6 +13,7 @@ public class Launch {
 		driver.get("https://www.google.co.in/");
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+		
 
 	}
 
