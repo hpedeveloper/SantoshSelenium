@@ -14,10 +14,7 @@ public class Launch {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 		System.out.println("I am the second person who is in selenium folder");
-		System.out.println("I am architect kano");
-		
-		
-		
+		System.out.println("I am architect kanro");
 	}
 
 }
